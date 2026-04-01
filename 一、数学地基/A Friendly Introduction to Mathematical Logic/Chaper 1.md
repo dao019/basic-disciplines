@@ -12,17 +12,17 @@
     - Core Goal: Prove consistency of classical mathematics, secure its established achievements
 
 3. Gödel’s Incompleteness Theorems (1931)
-    (1) First Incompleteness Theorem
-    - Applicable system conditions (all must be met):
-        A. Consistent
-        B. Recursively axiomatizable
-        C. Sufficiently strong (can express basic Peano Arithmetic, PA)
-    - Conclusion: There exist arithmetical statements that are true in the standard model ℕ of arithmetic, but unprovable within the system.
-    (2) Second Incompleteness Theorem
-    - Conclusion: If such a system S is consistent, it cannot prove Con(S) (the formal statement of its own consistency) within itself.
-    (3) Impact
-    - Hilbert’s Program is unachievable in its original form
-    - Core logical takeaway: No sufficiently strong formal system can be both complete and able to prove its own consistency
+    1. First Incompleteness Theorem
+        - Applicable system conditions (all must be met):
+            1. Consistent
+            2. Recursively axiomatizable
+            3. Sufficiently strong (can express basic Peano Arithmetic, PA)
+        - Conclusion: There exist arithmetical statements that are true in the standard model ℕ of arithmetic, but unprovable within the system.
+    2. Second Incompleteness Theorem
+        - Conclusion: If such a system S is consistent, it cannot prove Con(S) (the formal statement of its own consistency) within itself.
+    3. Impact
+        - Hilbert’s Program is unachievable in its original form
+        - Core logical takeaway: No sufficiently strong formal system can be both complete and able to prove its own consistency
 
 4. Three Major Schools of Mathematical Philosophy
     - Platonism: Mathematical objects exist independently of human thought
@@ -45,5 +45,6 @@
     - Significance: Partial realization of Hilbert’s vision under well-defined, stricter assumptions
 
 ---
+
 ### Exam Quick Take (Full-Mark 1-Sentence Core)
 Any sufficiently strong, consistent, recursively axiomatizable formal system extending basic arithmetic is incomplete and cannot prove its own consistency.
