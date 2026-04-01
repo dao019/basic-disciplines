@@ -15,18 +15,18 @@
         - Applicable System Conditions (all must be met):
             1. Consistent
             2. Recursively axiomatizable
-            3. Sufficiently strong (can express basic Peano Arithmetic, PA)
+            3. Sufficiently strong (can express basic Peano Arithmetic, PA, and can represent its own syntax (in particular, proofs) within arithmetic)
         - Conclusion: There exist sentences of arithmetic that are true in the standard model ℕ (assuming soundness), but unprovable within the system S.
         - Core Clarification: 
             1. Provability (⊢) is an internal, rule-governed process, without regard to meaning.
             2. Semantic truth (⊨) is defined externally via a model, and truth is determined by the satisfaction relation, not by derivation.
             3. The two are connected by soundness: every provable statement is semantically true.
     2. Second Incompleteness Theorem
-        - Conclusion: If such a system S is consistent, it cannot prove Con(S) (the formal statement of its own consistency) within itself.
+        - Conclusion: If such a system S is consistent and sufficiently strong, it cannot prove Con(S) (the formal statement of its own consistency) within itself.
         - Core Meaning: No sufficiently strong formal system can internally certify its own consistency using its own proof rules.
     3. Impact
         - Hilbert’s Program is unachievable in its original form
-        - Core Logical Takeaway: No sufficiently strong formal system can be both complete and able to prove its own consistency
+        - Core Logical Takeaway: No sufficiently strong formal system can be complete, nor can it prove its own consistency
         - Core Philosophical Takeaway: The gap between truth (semantics) and provability (syntax) is irreducible.
         
 
