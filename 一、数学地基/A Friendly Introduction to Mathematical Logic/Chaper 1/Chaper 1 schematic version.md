@@ -32,7 +32,7 @@
 
 4. Three Major Schools of Mathematical Philosophy
     - Platonism: Truth independent of provability (truth > provability)
-    - Intuitionism (Brouwer): Truth ≡ Constructibility ⇒ Provable ⇒ True (truth is identified with constructive provability)
+    - Intuitionism (Brouwer): Truth ≡ Constructibility ⇒ Provable ⇒ True (truth is identified with constructive provability. Intuitionism rejects LEM & non-constructive proofs)
     - Formalism (Hilbert): Goals are Truth ⇒ Provable (completeness, ideal) + Consistency (core)
 
 ## Supplementary Note (Key Pitfall Avoidance)
