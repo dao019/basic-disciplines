@@ -19,17 +19,17 @@
             1. Consistent
             2. Recursively axiomatizable
             3. Sufficiently strong (can express basic Peano Arithmetic, PA, and encode its own proof syntax)
-        - Standard Conclusion: There exist sentences of arithmetic that are true in the standard model ℕ, but unprovable within the system S.
+        - Standard Conclusion: There exist sentences of arithmetic that are true in the standard model ℕ (assuming soundness), but unprovable within the system S.
         - Core Clarification: Syntactic provability and semantic truth are fundamentally different notions.
             1. Provability (⊢) is an internal, rule-governed process: formulas are derived from axioms via inference rules (e.g., MP), without regard to meaning.
             2. Semantic truth (⊨) is defined externally via a model: symbols are interpreted in a structure (e.g., ℕ), and truth is determined by the satisfaction relation, not by derivation.
             3. Although distinct, the two are connected by soundness: every provable statement is semantically true.
     2. Second Incompleteness Theorem
-        - Standard Conclusion: If such a system S is consistent and sufficiently strong, then S ⊬ Con(S) — the formal arithmetical encoding of the meta-mathematical statement "S is consistent" — meaning Con(S) is not provable within S itself.
+        - Standard Conclusion: If such a system S is consistent and sufficiently strong to represent its own proof theory, then S ⊬ Con(S) — the formal arithmetical encoding of the meta-mathematical statement "S is consistent" — meaning Con(S) is not provable within S itself.
         - Core Meaning: No sufficiently strong formal system can internally certify its own consistency using its own proof rules.
     3. Impact
         - Hilbert’s Program is unachievable in its original form. Its core premise of unifying truth and provability, and goals of provable consistency and universal completeness, cannot be jointly realized within any single formal system.
-        - Core Logical Takeaway: No sufficiently strong formal system can be both complete and able to prove its own consistency.
+        - Core Logical Takeaway: No sufficiently strong formal system can be complete, nor can it prove its own consistency.
         - Core Philosophical Takeaway: The gap between truth (semantics) and provability (syntax) is irreducible.
 
 4. Three Major Schools of Mathematical Philosophy

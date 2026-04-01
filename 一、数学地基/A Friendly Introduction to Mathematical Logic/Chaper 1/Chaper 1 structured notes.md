@@ -16,7 +16,7 @@
             1. Consistent
             2. Recursively axiomatizable
             3. Sufficiently strong (can express basic Peano Arithmetic, PA)
-        - Conclusion: There exist arithmetical statements that are true in the standard model ℕ of arithmetic, but unprovable within the system S.
+        - Conclusion: There exist sentences of arithmetic that are true in the standard model ℕ (assuming soundness), but unprovable within the system S.
         - Core Clarification: 
             1. Provability (⊢) is an internal, rule-governed process, without regard to meaning.
             2. Semantic truth (⊨) is defined externally via a model, and truth is determined by the satisfaction relation, not by derivation.
@@ -32,7 +32,7 @@
 
 4. Three Major Schools of Mathematical Philosophy
     - Platonism: Truth independent of provability (truth > provability)
-    - Intuitionism (Brouwer): Truth ≡ Constructibility ⇒ Provable ⇒ True
+    - Intuitionism (Brouwer): Truth ≡ Constructibility ⇒ Provable ⇒ True (truth is identified with constructive provability)
     - Formalism (Hilbert): Goals are Truth ⇒ Provable (completeness, ideal) + Consistency (core)
 
 ## Supplementary Note (Key Pitfall Avoidance)
