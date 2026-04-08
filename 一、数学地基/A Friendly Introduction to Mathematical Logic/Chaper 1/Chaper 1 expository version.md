@@ -1,12 +1,12 @@
 > Mathematics is the Queen of the Sciences, though she can no longer claim to be a product of an immaculate conception. (Adapted from Gauss, as cited in the text)
 
 # Chapter 1 Structures and Languages
-1. Historical Background
+## 1. Historical Background
     - Time: Mid-late 19th century (crisis culminated at the turn of the 20th century)
     - Drivers: Non-Euclidean geometry, rigorous re-founding of calculus, and destabilizing set theory paradoxes (e.g., Russell's paradox)
     - Core Goal: Resolve the foundational crisis by constructing a consistent, rigorous axiomatic system for mathematics, especially for arithmetic
 
-2. Hilbert’s Program
+## 2. Hilbert’s Program
     - Trigger: Foundational crisis in mathematics, intensified by paradoxes in set theory and Brouwer’s Intuitionism (which rejected large parts of classical mathematics)
     - Core Method: Finitistic, constructively acceptable meta-mathematical reasoning (to ensure universal epistemic acceptance)
     - Underlying Vision: Secure classical mathematics by aligning formal provability (syntax) with mathematical truth (semantics)
