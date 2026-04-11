@@ -1,6 +1,6 @@
 > Mathematics is the Queen of the Sciences, though she can no longer claim to be a product of an immaculate conception. (Adapted from Gauss, as cited in the text)
 
-# 1. 0. Leading in
+# §1.0 Leading in
 ========
 ## 1. Historical Background
 1. Time: Mid-late 19th century (crisis culminated at the turn of the 20th century)
