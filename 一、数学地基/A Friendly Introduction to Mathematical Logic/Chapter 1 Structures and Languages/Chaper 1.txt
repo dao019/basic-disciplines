@@ -30,7 +30,7 @@ Assignment
 Consequence
 Distinction
 well-formed
-derivability
+derivable
 Trait
 evaluation
 mechanism
